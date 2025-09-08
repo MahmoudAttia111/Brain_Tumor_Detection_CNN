@@ -54,3 +54,7 @@ pip install -r requirements.txt
 
 ## Running the Streamlit App
 streamlit run task2_brain_tumor_detection_(cnn).py
+
+## Live Demo
+Try the app online here:
+🧠 Brain Tumor Detection App https://braintumordetectioncnn-8xq3y5nr94wzvyooeenzyh.streamlit.app/
