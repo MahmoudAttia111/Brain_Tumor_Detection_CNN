@@ -57,4 +57,4 @@ streamlit run task2_brain_tumor_detection_(cnn).py
 
 ## Live Demo
 Try the app online here:
-🧠 Brain Tumor Detection App https://braintumordetectioncnn- 
+🧠 Brain Tumor Detection App[ https://braintumordetectioncnn- ](https://braintumordetectioncnn-8xq3y5nr94wzvyooeenzyh.streamlit.app/)
